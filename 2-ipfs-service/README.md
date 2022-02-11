@@ -1,6 +1,6 @@
-<h2>Express TypeScript Visyfy</h2>
-<p>NF minting on polygon</p>
-<
+<h2>Express TypeScript For Tatum.io</h2>
+<p>NFT minting on polygon</p>
+<p>Node fetch instead of tatum's http code that looked ugly</p>
 <p>Test with:</p>
 <code>npm run test:unit</code>
 
